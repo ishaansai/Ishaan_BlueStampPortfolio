@@ -45,14 +45,15 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LV171ZL6n2w?si=rpEOUrYEaxE-9ucd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
-
+- So far I have connected 4 servos to my Arduino. 3 of my servos are loosely connected to the Arduino while one of them is connected to 
+ the Arduino and another part of my board. By using the Arduino coding platform, I connected the Arduino to my computer with a USB so that the code is implemented into my robotic arm. This code aligns the servos by turning them to a 90º position.
+- I have attached my Arduino to the board and the base of my robotic arm. To this base, I have attached a servo which connects to the Arduino. Additionally, there are 3 servos that are not attached to anything and are also connected to the Arduino. By connecting my Arduino to my laptop which has the written code, the servos are aligned by being turned to a 90º position.
+- Challenges that I will solve as I move on with my project: handling the loose servos, understanding what the code does in detail, understanding how the new servos will be useful to my robotic arm.
+- My plan to complete this project:
+  After 2 more days (July 31) I will have completed my robotic arm. Then, for the rest of the week, I will work on brainstorming and implementing my own adjustments to my project. Finally, I will fix any pending issues and prepare for the final milestone.
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
